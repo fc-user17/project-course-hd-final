@@ -1,4 +1,4 @@
-# 🛠️ Help Desk - Sistema de Soporte Técnico
+# Help Desk - Sistema de Soporte Técnico
 
 Sistema web de soporte técnico desarrollado como proyecto académico para el curso de **Herramientas de Desarrollo de Software**.
 
@@ -8,7 +8,7 @@ El proyecto se desarrolla aplicando herramientas y prácticas de desarrollo cola
 
 ---
 
-## 📌 Descripción del proyecto
+## Descripción del proyecto
 
 **Help Desk** es una plataforma web que permite a los usuarios registrar problemas o incidencias relacionadas con equipos, sistemas, aplicaciones, redes u otros servicios tecnológicos.
 
@@ -18,13 +18,13 @@ El proyecto busca demostrar no solamente el desarrollo de una aplicación web, s
 
 ---
 
-## 🎯 Objetivo general
+## Objetivo general
 
 Desarrollar e implementar un sistema web de soporte técnico que permita gestionar incidencias mediante un flujo organizado de registro, asignación, seguimiento y resolución de tickets, aplicando herramientas de control de versiones, colaboración, integración continua, contenedores y despliegue.
 
 ---
 
-## 🎯 Objetivos específicos
+## Objetivos específicos
 
 - Implementar un sistema de autenticación de usuarios.
 - Gestionar diferentes roles dentro del sistema.
@@ -44,11 +44,11 @@ Desarrollar e implementar un sistema web de soporte técnico que permita gestion
 
 ---
 
-# 👥 Roles del sistema
+# Roles del sistema
 
 El sistema contará con tres roles principales.
 
-## 👤 Usuario
+## Usuario
 
 El usuario es quien reporta los problemas.
 
@@ -64,7 +64,7 @@ Puede:
 
 ---
 
-## 🧑‍💻 Técnico
+## Técnico
 
 El técnico es responsable de atender las incidencias.
 
@@ -80,7 +80,7 @@ Puede:
 
 ---
 
-## 👨‍💼 Administrador
+## Administrador
 
 El administrador supervisa el funcionamiento del sistema.
 
@@ -97,7 +97,7 @@ Puede:
 
 ---
 
-# 🎫 Gestión de tickets
+# Gestión de tickets
 
 Los tickets representan las incidencias reportadas por los usuarios.
 
@@ -119,7 +119,7 @@ Cada ticket contará con información como:
 
 ---
 
-## 🔄 Estados de un ticket
+## Estados de un ticket
 
 El flujo básico de atención será:
 
